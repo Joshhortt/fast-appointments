@@ -7,8 +7,8 @@ _By **Josh Hortt**_
 
 ## Description
 
-_Whether you're allowing users to schedule appointments, book a vacation, or schedule a hair-salon_,<br/
-_using a this **Fast Appointment** app improves their experience and ensures a standardized submission format_.<br/
+_Whether you're allowing users to schedule appointments, book a vacation, or schedule a hair-salon_,<br/>
+_using a this app improves their experience and ensures a standardized submission format_.<br/>
 _Using Bootstrap and modules, provides you a working appointments scheduler to use in your next project_.
 
 ## Setup/Installation Requirements
@@ -28,7 +28,7 @@ _If you have any issues or have questions, ideas, concerns, please contact: josh
 
 _**HTML** - Hyper Text Markup Language_<br/>
 _**CSS** - Cascading Style Sheets_<br/>
-_**BOOTSTRAP** - Bootstrap_</br
+_**BOOTSTRAP** - Bootstrap_</br>
 _**JQUERY** - JQuery_
 
 ## License
