@@ -1,6 +1,6 @@
 # FAST APPOINTMENTS
 
-_This App is about **Job Application Manager**_.<br/>
+_This App is about **Fast Appointments**_.<br/>
 _version: 18/04/2019_<br/>
 
 _By **Josh Hortt**_
